@@ -1,0 +1,15 @@
+/Users/vsidhu/Projects/AdventOfCode2024/AdventOfCode2024/bin/Debug/net7.0/AdventOfCode2024
+/Users/vsidhu/Projects/AdventOfCode2024/AdventOfCode2024/bin/Debug/net7.0/AdventOfCode2024.deps.json
+/Users/vsidhu/Projects/AdventOfCode2024/AdventOfCode2024/bin/Debug/net7.0/AdventOfCode2024.runtimeconfig.json
+/Users/vsidhu/Projects/AdventOfCode2024/AdventOfCode2024/bin/Debug/net7.0/AdventOfCode2024.dll
+/Users/vsidhu/Projects/AdventOfCode2024/AdventOfCode2024/bin/Debug/net7.0/AdventOfCode2024.pdb
+/Users/vsidhu/Projects/AdventOfCode2024/AdventOfCode2024/obj/Debug/net7.0/AdventOfCode2024.csproj.AssemblyReference.cache
+/Users/vsidhu/Projects/AdventOfCode2024/AdventOfCode2024/obj/Debug/net7.0/AdventOfCode2024.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vsidhu/Projects/AdventOfCode2024/AdventOfCode2024/obj/Debug/net7.0/AdventOfCode2024.AssemblyInfoInputs.cache
+/Users/vsidhu/Projects/AdventOfCode2024/AdventOfCode2024/obj/Debug/net7.0/AdventOfCode2024.AssemblyInfo.cs
+/Users/vsidhu/Projects/AdventOfCode2024/AdventOfCode2024/obj/Debug/net7.0/AdventOfCode2024.csproj.CoreCompileInputs.cache
+/Users/vsidhu/Projects/AdventOfCode2024/AdventOfCode2024/obj/Debug/net7.0/AdventOfCode2024.dll
+/Users/vsidhu/Projects/AdventOfCode2024/AdventOfCode2024/obj/Debug/net7.0/refint/AdventOfCode2024.dll
+/Users/vsidhu/Projects/AdventOfCode2024/AdventOfCode2024/obj/Debug/net7.0/AdventOfCode2024.pdb
+/Users/vsidhu/Projects/AdventOfCode2024/AdventOfCode2024/obj/Debug/net7.0/AdventOfCode2024.genruntimeconfig.cache
+/Users/vsidhu/Projects/AdventOfCode2024/AdventOfCode2024/obj/Debug/net7.0/ref/AdventOfCode2024.dll
