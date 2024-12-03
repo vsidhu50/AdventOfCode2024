@@ -34,7 +34,6 @@ public class Day1
 		var lines = Utilities.GetInputLines(1);
         var left = new List<int>();
         var right  = new List<int>();
-        var sum = 0;
 
         foreach (var line in lines) {
             var nums = Utilities.GetNums(line);
