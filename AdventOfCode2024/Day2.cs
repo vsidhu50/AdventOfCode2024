@@ -12,7 +12,7 @@ public class Day2
         var count = 0;
 
         foreach (var line in lines) {
-            var nums = Utilities.GetNums(line);
+            var nums = Utilities.GetInts(line);
             
             if (IsSafe(nums))
                 count++;
@@ -26,7 +26,7 @@ public class Day2
         var count = 0;
 
         foreach (var line in lines) {
-            var nums = Utilities.GetNums(line);
+            var nums = Utilities.GetInts(line);
             
             if (IsSafe(nums))
                 count++;

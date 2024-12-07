@@ -14,7 +14,7 @@ public class Day1
         var sum = 0;
 
         foreach (var line in lines) {
-            var nums = Utilities.GetNums(line);
+            var nums = Utilities.GetInts(line);
             left.Add(nums[0]);
             right.Add(nums[1]);
         }
@@ -36,7 +36,7 @@ public class Day1
         var right  = new List<int>();
 
         foreach (var line in lines) {
-            var nums = Utilities.GetNums(line);
+            var nums = Utilities.GetInts(line);
             left.Add(nums[0]);
             right.Add(nums[1]);
         }

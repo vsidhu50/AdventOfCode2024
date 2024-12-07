@@ -2,10 +2,6 @@
 
 public class Utilities
 {
-    public Utilities()
-    {
-    }
-
     public static List<string> GetInputLines(int day)
     {
         return File.ReadAllText($"/Users/vsidhu/Projects/AdventOfCode2024/AdventOfCode2024/Input/Day{day}.txt").Split('\n', StringSplitOptions.RemoveEmptyEntries).ToList(); ;
@@ -16,7 +12,7 @@ public class Utilities
         return File.ReadAllText($"/Users/vsidhu/Projects/AdventOfCode2024/AdventOfCode2024/Input/Day{day}.txt").Split("\n\n", StringSplitOptions.RemoveEmptyEntries).ToList();
     }
 
-    public static List<int> GetInputNums(int day)
+    public static List<int> GetInputInts(int day)
     {
         return File.ReadAllText($"/Users/vsidhu/Projects/AdventOfCode2024/AdventOfCode2024/Input/Day{day}.txt").Split(new string[] { " ", "\t", Environment.NewLine, ",", "\n" }, StringSplitOptions.RemoveEmptyEntries).Select(x => int.Parse(x)).ToList();
     }
@@ -69,8 +65,13 @@ public class Utilities
         return input.Split(new string[] { " ", "\t", Environment.NewLine, ",", "\n" }, StringSplitOptions.RemoveEmptyEntries).ToList();
     }
 
-    public static List<int> GetNums(string input)
+    public static List<int> GetInts(string input)
     {
         return input.Split(new string[] { " ", "\t", Environment.NewLine, ",", "\n" }, StringSplitOptions.RemoveEmptyEntries).Select(int.Parse).ToList();
+    }
+
+    public static List<long> GetLongs(string input)
+    {
+        return input.Split(new string[] { " ", "\t", Environment.NewLine, ",", "\n" }, StringSplitOptions.RemoveEmptyEntries).Select(long.Parse).ToList();
     }
 }

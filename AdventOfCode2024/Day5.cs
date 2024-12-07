@@ -15,7 +15,7 @@ public class Day5 {
 
         var updates = new List<List<int>>();
         foreach (var line in sectionTwo) {
-            updates.Add(Utilities.GetNums(line));
+            updates.Add(Utilities.GetInts(line));
         }
 
         foreach (var update in updates) {
@@ -73,7 +73,7 @@ public class Day5 {
 
         var updates = new List<List<int>>();
         foreach (var line in sectionTwo) {
-            updates.Add(Utilities.GetNums(line));
+            updates.Add(Utilities.GetInts(line));
         }
 
         foreach (var update in updates) {
